@@ -1,0 +1,21 @@
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\obj\Debug\net6.0-windows\login page.csproj.AssemblyReference.cache
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\obj\Debug\net6.0-windows\login page_MarkupCompile.cache
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\obj\Debug\net6.0-windows\login page_MarkupCompile.lref
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\bin\Debug\net6.0-windows\login page.exe
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\bin\Debug\net6.0-windows\login page.deps.json
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\bin\Debug\net6.0-windows\login page.runtimeconfig.json
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\bin\Debug\net6.0-windows\login page.dll
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\bin\Debug\net6.0-windows\ref\login page.dll
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\bin\Debug\net6.0-windows\login page.pdb
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\obj\Debug\net6.0-windows\login page.g.resources
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\obj\Debug\net6.0-windows\login page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\obj\Debug\net6.0-windows\login page.AssemblyInfoInputs.cache
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\obj\Debug\net6.0-windows\login page.AssemblyInfo.cs
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\obj\Debug\net6.0-windows\login page.csproj.CoreCompileInputs.cache
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\obj\Debug\net6.0-windows\login page.dll
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\obj\Debug\net6.0-windows\ref\login page.dll
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\obj\Debug\net6.0-windows\login page.pdb
+C:\Users\AHAD RAZA\Desktop\wpf project\login page\obj\Debug\net6.0-windows\login page.genruntimeconfig.cache
